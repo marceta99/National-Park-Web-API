@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParkyApi", "ParkyApi\ParkyApi.csproj", "{52916671-85DD-490A-ACE2-570C29AB2849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52916671-85DD-490A-ACE2-570C29AB2849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52916671-85DD-490A-ACE2-570C29AB2849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52916671-85DD-490A-ACE2-570C29AB2849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52916671-85DD-490A-ACE2-570C29AB2849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04560367-5DD7-45F8-A5AD-0D89ED31BCF8}
+	EndGlobalSection
+EndGlobal
